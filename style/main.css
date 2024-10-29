@@ -1,0 +1,26 @@
+.red {
+  color: #f00;
+}
+.width60px{
+  width:60px;
+}
+.width700px {
+  width: 700px;
+}
+.width100p {
+  width: 100%;
+}
+.floatLeft {
+  float: left;
+}
+.floatRight {
+  float: right;
+}
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.textRight{
+  text-align: right;
+}
